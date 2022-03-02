@@ -1,27 +1,45 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Hello World & The Graph (GRT)
+date: "2022-03-01T22:12:03.284Z"
 description: "Hello World"
 ---
 
-This is my first post on my new fake blog! How exciting!
+This is my first post on my brand spanking new blog! Easy does it... Try not to comment all at once. 
 
-I'm sure I'll write a lot more interesting things in the future.
+You many or many not find what I write to be interesting but I will do my best to keep it to myself if I myself don't find it interesting.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+For example, this blog was built with a frontend framework called [Gatsby](https://www.gatsbyjs.com/). But a lesser known fact is that the engine that powers Gatsby sites is a tool called [The GraphQL](https://www.gatsbyjs.com/docs/why-gatsby-uses-graphql/). This tool, lets you create static web pages and React components programatically. It is also an alternative to using REST for creating and consuming APIs. The benefits of the GraphQL is that it makes it easier to access and manage endpoints, kind of like latitude and longitude for data. 
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+But wait... There's more.
 
-![Chinese Salty Egg](./salty_egg.jpg)
+Let's talk about The Graph, it's a Blockchain data indexing Protocol, or blockchain data filing system, and it is contributing to the web 3.0 economy in many ways. While many are getting familiar with web 3.0 through Blockchains like Bitcoin and Etherium and their respective currencies Bitcoin and Eth. While The Graph is not a blockchain, it does have a native currency, GRT. This technology and currency offers opportunities to make money with a system of built-in jobs and roles that create utility and add value by providing quality information and by rewarding the providers and maintainers of that quality information. 
 
-You can also write code blocks here!
+I understand it like this oversimplified library analogy: 
+
+- The Graph Protocol is like a library's Dewey decimal system
+- GraphQL API subgraphs are like Google searches of  browsable Blockchain data, or the library aisles organized by category
+- [Curators, Delegators, Indexers and Developers](https://thegraph.com/docs/en/#network-roles) are like the librarians, investors, facilities crew and authors that organizes create, maintains, funds and distribute your favorite Blockchain data, NFT's, whos-it's and whats-its galore.
+
+
+![GRT 3-1-22](./grtprice.jpg)
+
+
+- [GRT Token](https://coinmarketcap.com/currencies/the-graph/) is the currency that keeps the lights on, pays the creators, crew and librarians and is invested by the investors. 
+
+
+Learn & Earn, The Graph [@CoinMarketCap.com](https://coinmarketcap.com/earn/project/the-graph)
+
+For a detailed look into how people are using the Graph protocol, GraphQL, and GRT, check out this [medium article by Coinmonks](https://medium.com/coinmonks/what-you-need-to-know-about-the-graph-grt-b2c3de67450f). 
+
+Interact with the Graph community through: 
+
+[Reddit](https://www.reddit.com/r/thegraph/)
+[Discord](https://discord.com/invite/vtvv7FP)
+[Telegram](https://t.me/graphprotocol)
+
+
+
+<!-- You can also write code blocks here!
 
 ```js
 const saltyDuckEgg = "chinese preserved food product"
@@ -166,7 +184,7 @@ Paragraph:
 
 <!-- -->
 
-    Paragraph:
+   <!--  Paragraph:
 
         Code
 
@@ -229,3 +247,4 @@ This paragraph has some `code` in it.
 ![Alt Text](https://placehold.it/200x50 "Image Title")
 
     ![Alt Text](https://placehold.it/200x50 "Image Title")
+ -->
