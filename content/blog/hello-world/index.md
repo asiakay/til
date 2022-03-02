@@ -1,14 +1,16 @@
 ---
 title: Hello World & The Graph (GRT)
 date: "2022-03-01T22:12:03.284Z"
-description: "Hello World"
+description: "New blog who dis?... Restructuring the old Asialakay.net Blog so the old blog you knew is no longer. Look forward to article content here and the event calender to re-emerge at some this Spring 2022. But on this blog, you can expect to read about all things related to what I learned today. So, today I learned, or TIL, about The Graph, it's a Blockchain data indexing Protocol, or blockchain data filing system, and it is contributing to the web 3.0 economy in many ways."
 ---
 
-This is my first post on my brand spanking new blog! Easy does it... Try not to comment all at once. 
+New blog who dis?... Welcome! Restructuring the old [Asialakay.net](https://www.asialakay.net/) blog and the old blog you knew is no longer. Look forward to article to be posted here and for the event calender to re-emerge at some point this Spring 2022. But as for me and this blog, you can expect to read about all things related to what I learned today. 
 
-You many or many not find what I write to be interesting but I will do my best to keep it to myself if I myself don't find it interesting.
+So, today I learned, or TIL, about The Graph, a Blockchain data indexing Protocol, or in other words a blockchain data filing system. Despite the lack of sexiness contained in the string of words "Blockchain Data Indexing Protocol" it has a use case that with potential to unite and maintain a decentralized web 3.0 economy in many ways.
 
-For example, this blog was built with a frontend framework called [Gatsby](https://www.gatsbyjs.com/). But a lesser known fact is that the engine that powers Gatsby sites is a tool called [The GraphQL](https://www.gatsbyjs.com/docs/why-gatsby-uses-graphql/). This tool, lets you create static web pages and React components programatically. It is also an alternative to using REST for creating and consuming APIs. The benefits of the GraphQL is that it makes it easier to access and manage endpoints, kind of like latitude and longitude for data. 
+You many or many not find what I write to be interesting but I will do my best to keep it to myself if I myself don't find it interesting, useful, or not widely known.
+
+For example, this blog is built with a frontend framework called [Gatsby](https://www.gatsbyjs.com/). But a lesser known fact is that the engine that powers Gatsby sites is a tool called [The GraphQL](https://www.gatsbyjs.com/docs/why-gatsby-uses-graphql/). This tool, lets you create static web pages and React components programatically. It is also an alternative to using REST for creating and consuming APIs. The benefits of the GraphQL is that it makes it easier to access and manage endpoints, kind of like latitude and longitude for data. 
 
 But wait... There's more.
 

@@ -3,12 +3,12 @@ module.exports = {
     title: `til`,
     author: {
       name: `Asia K`,
-      summary: `who lives and works in New England creating art, designing user experiences and building functional things.`,
+      summary: `who lives and works in New England creating art, writing code, and learning something new everyday.`,
     },
     description: `A summary of something I learned each day.`,
     siteUrl: `https://til.gatsbyjs.io/`,
     social: {
-      twitter: `asialakay`,
+      almighty: `asiak`,
     },
   },
   plugins: [
