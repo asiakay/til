@@ -12,7 +12,7 @@ module.exports = {
     },
   },
   plugins: [
-    `gatsby-plugin-image`,
+`gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -31,6 +31,26 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+         {
+           resolve: `gatsby-remark-embed-video`,
+           options: {
+             width: 800,
+             ratio: 1.77, // optional: defaults to 16/9 = 1.77
+             height: 400, // optional: Overrides optional.ratio
+             related: false, //Optional: Will remove related videos from the end of an embedded YouTube video.
+             noIframeBorder: true, //Optional: Disable insertion of <style> border: 0
+             loadingStrategy: 'lazy', // optional: Enable support for laxy load offscreen iframes. Default is disabled.
+             urlOverrides: [
+               {
+                 id: "youtube",
+                 embedURL: videoID =>
+                 `https://www.youtube-nocookie.com/embed/${videoID}`,
+               },
+             ], // Optional: override URL of a service provider, e.g to enable youtube-nocookie support
+             containerClass: "embedVideo-container", // Optional: Custom CSS class for iframe container, for multiple classes separate them by space
+             iframeId: false, // Optional: if true, iframe's id will be set to what is provided after 'video:'(Youtube Iframe player API requires iframe ID)   
+           }
+         },
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -43,6 +63,7 @@ module.exports = {
               wrapperStyle: `margin-bottom: 1.0725rem`,
             },
           },
+          `gatsby-plugin-twitter`,
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
