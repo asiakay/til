@@ -67,6 +67,17 @@ module.exports = {
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
+          `gatsby-plugin-styled-components`,
+          {
+            resolve: `gatsby-plugin-mdx`,
+            options: {
+              extensions: [`.mdx`, `.md`],
+            },
+          },
+          {
+            resolve: `gatsby-source-filesystem`,
+            options: { path: `${__dirname}/content`, name: `blog` },
+          },
         ],
       },
     },

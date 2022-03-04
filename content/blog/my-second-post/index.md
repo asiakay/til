@@ -17,14 +17,20 @@ date: "2022-03-02T23:46:37.121Z"
 ### Today I learned 
 - how to embed videos and tweets in a Gatsby blog site
 - how to catch a scammer on the blockchain using their [wallet address and a blockchain explorer](https://www.blockchain.com/explorer) 
-- that even though blockchain peer-to-peer financial transaction were created as an alternative to national fiat currencies, whole countries are now accepting cryptocurrencies 
+- that even though peer-to-peer financial transactions on the blockchain were created as an alternative to national fiat currencies, whole countries are now accepting donations in cryptocurrency  
 - that blockchain data remains undefeated when it comes to being used as a tool to fight fraud, even if it starts from the bottom up - net win-win
 
 
 #### References: 
-- https://www.gatsbyjs.com/plugins/gatsby-remark-embed-video/?=video
-- https://www.gatsbyjs.com/plugins/gatsby-plugin-twitter/#:~:text=On%20Twitter%2C%20find%20the%20tweet,it%20into%20your%20markdown%20page.
+- [Embed a Youtube Video in your Markdown](https://www.gatsbyjs.com/plugins/gatsby-remark-embed-video/?=video)
 
+- [Add tweets to markdown and in other places](https://www.gatsbyjs.com/plugins/gatsby-plugin-twitter/#:~:text=On%20Twitter%2C%20find%20the%20tweet,it%20into%20your%20markdown%20page)
+
+- [These Are The Worst TikTokers Ever...](https://m.youtube.com/watch?v=JIUJOTO6KTg&feature=emb_title)
+
+- [Official Twitter Account for Ukraine](https://twitter.com/Ukraine/status/1497594592438497282?ref_src=twsrc%5Etfw)
+
+- [How Ukraine is using crypto donations](https://techcrunch.com/2022/02/28/how-ukraine-is-using-crypto-donations/)
 
 <!-- Why the smoke for Crypto Exchanges Yet the unbothered energy surrounding the Russian Oil Industry?
 1. The people are empowered by having access to crypto. 

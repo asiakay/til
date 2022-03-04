@@ -1,8 +1,35 @@
 ---
-title: Test 2
-date: "2022-02-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: Russian Military Sparks Fire Then Takes Over a Nuclear Power Plant
+date: "2022-03-03T22:40:32.169Z"
+description: Seven days into the conflict in Eastern Europe, Putin attempted to put the world even further on edge as news hit of Russian artillery causing a fire to erupt at a Nuclear power plant in Ukraine.
 ---
+#### Fire At The Nuclear Plant - Building Under Seige
+Seven days into the conflict in Eastern Europe, Putin attempted to put the world even further on edge as news hit of Russian artillery causing a fire to erupt at a Nuclear power plant in Ukraine. To make matters worse, oncoming fire from Russian soldiers kept firefighters from doing their job to enter the facility and extinguish the blaze.
+![Nuclear Plant Fire](https://i2.wp.com/pragativadi.com/wp-content/uploads/2022/03/Russian-Forces-Seize-Zaporizhzhia-Nuclear-Plant.jpg?resize=750%2C430&ssl=1)
+
+According to the [Associated Press](https://apnews.com/article/russia-ukraine-war-a3092d8e476949ed7c55607a645a9154), "Nuclear plant spokesman Andriy Tuz told Ukrainian television that shells were falling directly on the facility and had set fire to one of its six reactors. That reactor is under renovation and not operating, but there is nuclear fuel inside, he said."
+#### Unclear If NATO Will Get Involved
+
+Early Friday morning, a report from 
+"Ukraine’s nuclear agency revealed that [Russian military forces had taken control of the facility](https://www.cnbc.com/2022/03/04/russia-ukraine-latest-updates.html) in Zaporizhzhia, Ukraine." In itself this is concerning, and the imminent danger intensifies  with the 40 mile caravan of Russian forces being 20 miles from Ukraines's second largest nuclear facility. Despite these advances, [Reuters](https://www.cnbc.com/2022/03/04/russia-ukraine-latest-updates.html) reported that even "with the crisis escalating, German Chancellor Olaf Scholz said Friday that NATO, the world’s most powerful military alliance, will not get involved militarily in Ukraine."
+
+![Linda Thomas-Greenfield](https://image.cnbcfm.com/api/v1/image/107025448-16464171902022-03-04t171644z_1861063217_rc2svs9nzj9w_rtrmadp_0_ukraine-crisis-un.jpeg?v=1646417219&w=929&h=523)
+However, the U.S. Ambassador the United Nations, Linda Thomas-Greenfield confirms the nature of the world's narrow escape from "full-blown nuclear catastrophe." And at a U.N. Security Council Emergency meeting held hours after the incident, Thomas-Greenfield urged the council to have the courage to stand up to Putin and condemn Russia's action. 
+
+As tragic as the on-going situation has been for the people who call Ukraine home, it appears that Putin is using the situation to test how much he will be allowed to get away wtih. In addition to [752 civilian casualties](https://www.washingtonpost.com/world/2022/03/04/ukraine-russia-casualties-kyiv/) killed and injured in Ukraine as a result of Russian's "special operation" as Putin has called it. Warnings have been sent to "Sweden and Finland against joining NATO, saying it would lead to "[serious military and political consequences](https://www.reuters.com/business/media-telecom/majority-swedes-favour-joining-nato-poll-2022-03-04/)."
+
+
+`youtube: https://m.youtube.com/watch?v=EdcV7_DFOQA`
+
+
+
+
+#### References 
+- [Russian Forces Seize Zaporizhzhia Nuclear Plant: Reports](https://pragativadi.com/russian-forces-seize-zaporizhzhia-nuclear-plant-reports/)
+- [Russia attacks Ukraine nuclear plant as invasion advances](https://apnews.com/article/russia-ukraine-war-a3092d8e476949ed7c55607a645a9154)
+- [G-7 nations to impose more sanctions on Russia, Belarus; Ukraine’s Zelenskyy vows ‘we will win’](https://www.cnbc.com/2022/03/04/russia-ukraine-latest-updates.html)
+- [Russian invasion of Ukraine forces Swedes to rethink NATO membership](https://www.reuters.com/business/media-telecom/majority-swedes-favour-joining-nato-poll-2022-03-04/)
+- [As Ukraine struggles to count total war casualties, families bury the dead one by one](https://www.washingtonpost.com/world/2022/03/04/ukraine-russia-casualties-kyiv/)
 
 <!-- Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
